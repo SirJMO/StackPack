@@ -1,11 +1,11 @@
 {
   "name": "StackPack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "factorio_version": "0.18",
-  "date": "2020-06-10",
+  "date": "2020-06-11",
   "title": "Stack Pack",
   "author": "SirJMO",
   "homepage": "",
-  "description": "",
+  "description": "Bringing back an old challenge, the stack challenge",
   "dependencies": ["base >= 0.18.00"]
 }
